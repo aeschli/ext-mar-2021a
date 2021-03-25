@@ -24,7 +24,7 @@
 			"args": [
 				"--extensionDevelopmentPath=${workspaceFolder}",
 				"--extensionTestsPath=${workspaceFolder}/out/test/suite/index",
-				"/home/martin/workspaces/testing/alpine"
+				"${workspaceFolder}/test-workspace"
 			],
 			"outFiles": [
 				"${workspaceFolder}/out/test/**/*.js"
